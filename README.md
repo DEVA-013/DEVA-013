@@ -48,14 +48,14 @@ I enjoy working on projects that combine hardware and software to build simple, 
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/DEVA-013">
-    <img src="https://img.shields.io/github/followers/DEVA-013?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/git-dharshini">
+    <img src="https://img.shields.io/github/followers/git-dharshini?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DEVA-013">
-    <img src="https://img.shields.io/github/commit-activity/m/DEVA-013/DEVA-013?style=for-the-badge" alt="Commit Activity" />
+  <a href="https://github.com/git-dharshini">
+    <img src="https://img.shields.io/github/commit-activity/m/git-dharshini/git-dharshini?style=for-the-badge" alt="Commit Activity" />
   </a>
 </p>
 
