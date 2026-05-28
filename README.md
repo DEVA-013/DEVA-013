@@ -1,13 +1,8 @@
 # Hi 👋 I'm Devadharshini
 
-### ECE Student | Interested in Software, Hardware & Real-Time Projects
-
----
-
 ### About Me
 
-I enjoy working on projects that combine hardware and software to build practical and interactive systems.  
-My interests revolve around real-time applications, IoT, backend development, image and signal processing.
+I enjoy working on projects that combine hardware and software to build simple, practical and real-time interactive systems.
 
 - 💻 Software development  
 - ⚡ Hardware + software integration projects  
@@ -24,10 +19,6 @@ My interests revolve around real-time applications, IoT, backend development, im
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
@@ -38,10 +29,6 @@ My interests revolve around real-time applications, IoT, backend development, im
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
